@@ -3,9 +3,9 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'appraisal'
-gem 'aruba'
+gem 'aruba', '>= 0.5.4'
 gem 'coffee-rails'
-gem 'cucumber', '1.3.19'
+gem 'cucumber', '4.0.0'
 gem 'jquery-rails'
 gem 'rake'
 gem 'rspec-rails'
