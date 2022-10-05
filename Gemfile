@@ -4,12 +4,12 @@ gemspec
 
 gem 'appraisal'
 gem 'aruba'
-gem 'coffee-rails'
-gem 'cucumber', '1.3.19'
-gem 'jquery-rails'
-gem 'rake'
+gem 'coffee-rails', '>= 4.2.2'
+gem 'cucumber', '4.0.0'
+gem 'jquery-rails', '>= 4.4.0'
+gem 'rake', '>= 12.3.3'
 gem 'rspec-rails'
-gem 'uglifier'
+gem 'uglifier', '>= 2.7.2'
 gem 'test-unit'
 
 gem 'activerecord-jdbcsqlite3-adapter', platforms: :jruby
