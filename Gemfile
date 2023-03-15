@@ -4,9 +4,9 @@ gemspec
 
 gem 'appraisal'
 gem 'aruba'
-gem 'coffee-rails'
+gem 'coffee-rails', '>= 4.2.2'
 gem 'cucumber', '1.3.19'
-gem 'jquery-rails'
+gem 'jquery-rails', '>= 4.0.1'
 gem 'rake'
 gem 'rspec-rails'
 gem 'uglifier'
