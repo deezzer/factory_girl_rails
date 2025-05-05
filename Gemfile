@@ -8,7 +8,7 @@ gem 'coffee-rails'
 gem 'cucumber', '1.3.19'
 gem 'jquery-rails'
 gem 'rake'
-gem 'rspec-rails'
+gem 'rspec-rails', '>= 8.0.0'
 gem 'uglifier'
 gem 'test-unit'
 
