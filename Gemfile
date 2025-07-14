@@ -2,13 +2,13 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'appraisal'
+gem 'appraisal', '>= 2.0.0'
 gem 'aruba'
-gem 'coffee-rails'
+gem 'coffee-rails', '>= 4.2.2'
 gem 'cucumber', '1.3.19'
-gem 'jquery-rails'
+gem 'jquery-rails', '>= 4.0.1'
 gem 'rake'
-gem 'rspec-rails'
+gem 'rspec-rails', '>= 2.99.0'
 gem 'uglifier'
 gem 'test-unit'
 
