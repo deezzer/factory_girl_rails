@@ -12,7 +12,7 @@ gem 'rspec-rails'
 gem 'uglifier'
 gem 'test-unit'
 
-gem 'activerecord-jdbcsqlite3-adapter', platforms: :jruby
+gem 'activerecord-jdbcsqlite3-adapter', '>= 70.0', platforms: :jruby
 gem 'jdbc-sqlite3', platforms: :jruby
 gem 'therubyrhino', platforms: :jruby
 gem 'jruby-openssl', platforms: :jruby
